@@ -4,4 +4,4 @@
 
 Repositório criado para armazenar os códigos do estudo sobre o Git.
 
-`Os códigos estão na branch master` 
+`Os códigos estão na branch master, sistema-de-login e staging` 
