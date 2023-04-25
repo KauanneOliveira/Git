@@ -1,2 +1,7 @@
-# git
-Repositório criado para armazenar os códigos de um tutorial de como usar o git
+# Git
+
+## Atividade da Semana 1 do projeto CodeLab do IFSP
+
+Repositório criado para armazenar os códigos do estudo sobre o Git.
+
+`Os códigos estão na branch master` 
