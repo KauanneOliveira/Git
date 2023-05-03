@@ -4,4 +4,12 @@
 
 Repositório criado para armazenar os códigos do estudo sobre o Git.
 
-`Os códigos estão na branch master, sistema-de-login e staging` 
+##  Autor
+
+👤 **Kauanne Oliveira**
+
+- LinkedIn: [ @kauanne-oliveira ](https://linkedin.com/in/kauanne-oliveira-13a788259)
+
+##  Apoio
+
+Dê uma ⭐️ se gostou desse repositório!
